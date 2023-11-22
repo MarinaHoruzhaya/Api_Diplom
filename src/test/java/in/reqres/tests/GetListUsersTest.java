@@ -17,7 +17,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class GetListUsersTest {
     @Test
     @Owner("Horuzhaya Marina")
-    @DisplayName("Check user at list users")
+    @DisplayName("Check user at list of users")
     void listUsersTest() {
         GetListUsersModel responseUsers = step("Get the users array", () ->
                 given(request)

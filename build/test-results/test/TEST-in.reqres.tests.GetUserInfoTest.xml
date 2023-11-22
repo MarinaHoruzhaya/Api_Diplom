@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="in.reqres.tests.GetUserInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:20:03" hostname="WIN-2IIN7F880J6" time="0.212">
+  <properties/>
+  <testcase name="Check userName and ID" classname="in.reqres.tests.GetUserInfoTest" time="0.212"/>
+  <system-out><![CDATA[Request URI:	https://reqres.in/api/users/2
+Request method:	GET
+Body:			<none>
+{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

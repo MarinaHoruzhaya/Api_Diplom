@@ -36,7 +36,7 @@
 - ✓ Удаление пользователя
 
 <a id="jenkins"></a>
-## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_EVShev/"> Jenkins </a>
+## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href=""> Jenkins </a>    
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Rest_Api_EVShev/allure/"><img src="" alt="Jenkins1"/></a>
 </p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="in.reqres.tests.GetUserInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:20:03" hostname="WIN-2IIN7F880J6" time="0.212">
+<testsuite name="in.reqres.tests.GetUserInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:29:30" hostname="WIN-2IIN7F880J6" time="0.385">
   <properties/>
-  <testcase name="Check userName and ID" classname="in.reqres.tests.GetUserInfoTest" time="0.212"/>
+  <testcase name="Check userName and ID" classname="in.reqres.tests.GetUserInfoTest" time="0.385"/>
   <system-out><![CDATA[Request URI:	https://reqres.in/api/users/2
 Request method:	GET
 Body:			<none>

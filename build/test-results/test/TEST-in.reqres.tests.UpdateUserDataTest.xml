@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="in.reqres.tests.UpdateUserDataTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:20:04" hostname="WIN-2IIN7F880J6" time="0.413">
+<testsuite name="in.reqres.tests.UpdateUserDataTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T19:29:31" hostname="WIN-2IIN7F880J6" time="0.378">
   <properties/>
-  <testcase name="Update data of user" classname="in.reqres.tests.UpdateUserDataTest" time="0.413"/>
+  <testcase name="Update data of user" classname="in.reqres.tests.UpdateUserDataTest" time="0.378"/>
   <system-out><![CDATA[Request URI:	https://reqres.in/api/users/2/
 Request method:	PUT
 Body:
@@ -12,7 +12,7 @@ Body:
 {
     "name": "Horuzhaya-Marina",
     "job": "Middle-QA",
-    "updatedAt": "2023-11-22T19:20:04.440Z"
+    "updatedAt": "2023-11-22T19:29:31.701Z"
 }
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

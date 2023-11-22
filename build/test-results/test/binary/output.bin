@@ -8,8 +8,8 @@
 {
     "name": "Marina",
     "job": "QA-engineer",
-    "id": "290",
-,    "createdAt": "2023-11-22T19:20:01.454Z"
+    "id": "336",
+,    "createdAt": "2023-11-22T19:29:29.072Z"
 }
 ,Request URI:	https://reqres.in/api/users/2
 Request method:	DELETE
@@ -117,6 +117,6 @@
 
 	    "job": "Middle-QA",
 
-	,    "updatedAt": "2023-11-22T19:20:04.440Z"
+	,    "updatedAt": "2023-11-22T19:29:31.701Z"
 
 	}

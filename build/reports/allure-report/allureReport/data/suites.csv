@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 22 22:29:29 GMT+03:00 2023","Wed Nov 22 22:29:30 GMT+03:00 2023","428","","in.reqres.tests.DeleteUserTest","","in.reqres.tests.DeleteUserTest","deleteUserTest","Delete user",""
+"passed","Wed Nov 22 22:29:30 GMT+03:00 2023","Wed Nov 22 22:29:30 GMT+03:00 2023","521","","in.reqres.tests.GetListUsersTest","","in.reqres.tests.GetListUsersTest","listUsersTest","Check user at list of users",""
+"broken","Wed Nov 22 22:08:50 GMT+03:00 2023","Wed Nov 22 22:08:52 GMT+03:00 2023","1952","","in.reqres.tests.UserTests","","in.reqres.tests.UserTests","createUserTest","Create new user",""
+"passed","Wed Nov 22 22:29:31 GMT+03:00 2023","Wed Nov 22 22:29:31 GMT+03:00 2023","367","","in.reqres.tests.UpdateUserDataTest","","in.reqres.tests.UpdateUserDataTest","putUserTest","Update data of user",""
+"passed","Wed Nov 22 22:29:30 GMT+03:00 2023","Wed Nov 22 22:29:31 GMT+03:00 2023","351","","in.reqres.tests.GetUserInfoTest","","in.reqres.tests.GetUserInfoTest","getUserNameAndIdTest","Check userName and ID",""
+"passed","Wed Nov 22 22:29:23 GMT+03:00 2023","Wed Nov 22 22:29:29 GMT+03:00 2023","6188","","in.reqres.tests.CreateUserTest","","in.reqres.tests.CreateUserTest","createUserTest","Create new user",""

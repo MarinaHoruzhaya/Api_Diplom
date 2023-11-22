@@ -36,16 +36,16 @@
 - ✓ Удаление пользователя
 
 <a id="jenkins"></a>
-## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href=""> Jenkins </a>    
+## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/api-diplom-Horuzhaya/"> Jenkins </a>    
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/Rest_Api_EVShev/allure/"><img src="" alt="Jenkins1"/></a>
+<a href=""><img src="media/screens/Jenkins.png" alt="Jenkins1"/></a>
 </p>
 После выполнения сборки, в блоке <code>История сборок</code> напротив номера сборки появятся значки <code>Allure Report</code> и <code>Allure TestOps</code>, при клике на которые откроется страница с сформированным html-отчетом и тестовой документацией соответственно.
 
 
 ## Пример авто-тест кейса
 <p align="center">
-<img title="AllureSuite" src="">
+<img title="AllureSuite" src="media/screens/Test-case.png">
 </p>
 
 <a id="console"></a>
@@ -57,31 +57,31 @@ gradle clean test
 
 
 <a id="allureReport"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_EVShev/8/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/api-diplom-Horuzhaya/7/allure/"> Allure-отчета </a>
 ## Основной отчет
 
 <p align="center">
-<img title="Allure Overview" src="">
+<img title="Allure Overview" src="media/screens/AllureReport.png">
 </p>
 
 <a id="allure"></a>
-## <img src="media/logo/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3730/dashboards"> Allure TestOps</a>
+## <img src="media/logo/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3839/dashboards"> Allure TestOps</a>
 
 ## :bar_chart:: Доска
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
 
 <p align="center">
-<img title="Allure TestOps DashBoard" src="">
+<img title="Allure TestOps DashBoard" src="media/screens/AllureTestOps.png">
 </p>
 
 ## Пример тест-кейса
 <p align="center">
-<img title="AllureTC" src="">
+<img title="AllureTC" src="media/screens/TestCaseAllureTestOps.png">
 </p>
 
 ##  Запуски
 <p align="center">
-<img title="Allure Tests" src="">
+<img title="Allure Tests" src="media/screens/Launches.png">
 </p>
 
 <a id="tg"></a>
@@ -89,5 +89,5 @@ gradle clean test
 После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом о прогоне тестов.
 
 <p align="center">
-<img title="telegram" src="">
+<img title="telegram" src="media/screens/TelegramBot.png">
 </p>
